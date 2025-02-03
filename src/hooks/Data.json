@@ -1,0 +1,176 @@
+{
+    "id": "XQX6t0N1DaXyqMqx399W",
+    "lineup": [],
+    "addressStateShort": "Hlavní město Praha",
+    "country": "Czechia",
+    "address": "Bubenské nábř. 306/13, 170 00 Praha 7-Holešovice, Czechia",
+    "guids": [
+        "9de2636d-caad-4926-9486-74767389fbe1"
+    ],
+    "description": "Walk into 2025 with the best experience at SaSaZu – the #1 New Year’s Eve celebration in the Czech Republic!\n\nJoin us for an unforgettable night with top international DJs, live performances, dazzling dancers, and so much more!",
+    "addressState": "Hlavní město Praha",
+    "isPrivate": false,
+    "created_by": "KML6EuGClZZySu1meRBVwNdkLgy2",
+    "tags": [
+        "club"
+    ],
+    "geo": {
+        "_latitude": 50.0984446,
+        "_longitude": 14.4452744
+    },
+    "addressUrl": "https://maps.google.com/?q=Bubensk%C3%A9+n%C3%A1b%C5%99.+306/13,+170+00+Praha+7-Hole%C5%A1ovice,+Czechia&ftid=0x470b94ba73bad249:0x4d2fb69ef1c586ad",
+    "name": "Prague’s Biggest New Year’s Eve Event 2024",
+    "currency": "CZK",
+    "vicinity": "Praha 7",
+    "user": {
+        "name": "Kwaku Otchere",
+        "id": "KML6EuGClZZySu1meRBVwNdkLgy2",
+        "avatar": {
+            "uri": "https://vipass-dev.b-cdn.net/avatars/22740E3A-7A08-400B-98DD-06A3FFE36BB8.jpg"
+        }
+    },
+    "age": 18,
+    "startDate": {
+        "_seconds": 1735678800,
+        "_nanoseconds": 0
+    },
+    "cover": {
+        "colors": {
+            "Vibrant": "#2f72b3",
+            "DarkVibrant": "#0f2c7c",
+            "LightVibrant": "#e4cb88",
+            "Muted": "#976c55",
+            "DarkMuted": "#252a4c",
+            "LightMuted": "#bcaa70"
+        },
+        "thumbnail": {
+            "gif": "https://vz-d4611602-474.b-cdn.net/9de2636d-caad-4926-9486-74767389fbe1/preview.webp",
+            "hash": "c855z{Z}NhT5p0kEH=pMoN%JWGR:SjiutS",
+            "uri": "https://vz-d4611602-474.b-cdn.net/9de2636d-caad-4926-9486-74767389fbe1/thumbnail.jpg"
+        }
+    },
+    "flyers": [
+        {
+            "filename": "CDDE43FA-8222-4A84-BB3C-6C4A0322EB01.mp4",
+            "guid": "9de2636d-caad-4926-9486-74767389fbe1",
+            "type": "video",
+            "url": "https://vz-d4611602-474.b-cdn.net/9de2636d-caad-4926-9486-74767389fbe1/playlist.m3u8",
+            "thumbnail": "https://vz-d4611602-474.b-cdn.net/9de2636d-caad-4926-9486-74767389fbe1/thumbnail.jpg",
+            "gif": "https://vz-d4611602-474.b-cdn.net/9de2636d-caad-4926-9486-74767389fbe1/preview.webp",
+            "status": "ready"
+        }
+    ],
+    "approvedOn": {
+        "_seconds": 1734885828,
+        "_nanoseconds": 513000000
+    },
+    "status": "published",
+    "publishedOn": {
+        "_seconds": 1734886139,
+        "_nanoseconds": 13000000
+    },
+    "source": "tickettailor",
+    "endDate": {
+        "_seconds": 1738296000,
+        "_nanoseconds": 0
+    },
+    "userHasLiked": false,
+    "stops": [
+        {
+            "id": "f8245dfe-34cc-4af8-b804-665488523cf9",
+            "position": 0,
+            "required": true,
+            "title": "",
+            "type": "multiple",
+            "tickType": "ticket",
+            "ticks": [
+                {
+                    "id": "sZnuPRzsUZaK4Dumx05s",
+                    "name": "1st Wave / 1. Vlna",
+                    "price": 500,
+                    "quantity": 10,
+                    "maxPerUser": 10,
+                    "description": "",
+                    "type": "ticket",
+                    "canSelectMultiple": true,
+                    "stopId": "f8245dfe-34cc-4af8-b804-665488523cf9",
+                    "userMeta": {
+                        "ownedQuantity": 0
+                    }
+                },
+                {
+                    "id": "JV9qQuD9tCvsIU1xSbOQ",
+                    "name": "2nd Wave / 2. Vlna",
+                    "price": 610,
+                    "quantity": 10,
+                    "maxPerUser": 10,
+                    "description": "",
+                    "type": "ticket",
+                    "canSelectMultiple": true,
+                    "stopId": "f8245dfe-34cc-4af8-b804-665488523cf9",
+                    "userMeta": {
+                        "ownedQuantity": 0
+                    }
+                },
+                {
+                    "id": "j908TrmxQO9TnC1Xrb4p",
+                    "name": "LADY DUO TICKET (2 TICKETS FOR THE PRICE OF 1)",
+                    "price": 610,
+                    "quantity": 4,
+                    "maxPerUser": 10,
+                    "description": "",
+                    "type": "ticket",
+                    "canSelectMultiple": true,
+                    "stopId": "f8245dfe-34cc-4af8-b804-665488523cf9",
+                    "userMeta": {
+                        "ownedQuantity": 0
+                    }
+                },
+                {
+                    "id": "3B7l4WVLMArKwGq7aGUT",
+                    "name": "3rd Wave / 3. Vlna ",
+                    "price": 700,
+                    "quantity": 478,
+                    "maxPerUser": 10,
+                    "description": "",
+                    "type": "ticket",
+                    "canSelectMultiple": true,
+                    "stopId": "f8245dfe-34cc-4af8-b804-665488523cf9",
+                    "userMeta": {
+                        "ownedQuantity": 0
+                    }
+                },
+                {
+                    "id": "yiDeaGOQbGUS1XApeO7c",
+                    "name": "1st Wave VIP / 1. VLNA VIP ",
+                    "price": 1415,
+                    "quantity": 16,
+                    "maxPerUser": 10,
+                    "description": "",
+                    "type": "ticket",
+                    "canSelectMultiple": true,
+                    "stopId": "f8245dfe-34cc-4af8-b804-665488523cf9",
+                    "userMeta": {
+                        "ownedQuantity": 0
+                    }
+                },
+                {
+                    "id": "EXkEccp2EXoH4E8mUOe5",
+                    "name": "GROUP TICKET (FOUR TICKETS) ",
+                    "price": 2120,
+                    "quantity": 38,
+                    "maxPerUser": 10,
+                    "description": "",
+                    "type": "ticket",
+                    "canSelectMultiple": true,
+                    "stopId": "f8245dfe-34cc-4af8-b804-665488523cf9",
+                    "userMeta": {
+                        "ownedQuantity": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "canBePurchased": true,
+    "startingPrice": 500
+}
