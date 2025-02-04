@@ -1,18 +1,27 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
-import svgr from 'vite-plugin-svgr';
-import dotenv from 'dotenv';
-import path from 'path';
-// Load environment variables
-dotenv.config();
+
 export default defineConfig({
-  define: {
-    'process.env': process.env, // Make environment variables accessible in the client code
-  plugins: [react(),    svgr(),],
-  resolve: {
-    alias: {
-      '~': path.resolve(__dirname, 'src'), // Add the alias for src
+  plugins: [react()],
+  build: {
+    lib: {
+      entry: 'src/main.tsx', // Pointing to the entry file for your widget
+      name: 'Widget',
+      fileName: (format) => `widget.${format}.js`,
+      formats: ['umd'], // UMD format to support CDN
+    },
+    rollupOptions: {
+      external: ['react', 'react-dom', 'react-router-dom'],
+      output: {
+        globals: {
+          react: 'React',
+          'react-dom': 'ReactDOM',
+          'react-router-dom': 'ReactRouterDOM',
+        },
+      },
     },
   },
-}
+  define: {
+    'process.env': {}  // Polyfill process.env to avoid errors
+  },
 });
