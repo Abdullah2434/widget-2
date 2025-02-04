@@ -20,7 +20,8 @@ const usePromo = (slug: string) => {
     useEffect(() => {
         const fetchPromo = async () => {
             try {
-                const response = await fetch(`https://vipass-dev-api.web.app/promos/${slug}`, {
+                const slug2 = "XQX6t0N1DaXyqMqx399W"
+                const response = await fetch(`https://vipass-dev-api.web.app/promos/${slug2}`, {
                     method: 'GET',
                     headers: {
                         'Content-Type': 'application/json',

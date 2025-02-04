@@ -7,7 +7,7 @@ function App() {
     <ThemeProvider>
       <Router>
         <Routes>
-          <Route path="/:slug" element={<TicketSelectionScreen />} />
+          <Route path="/" element={<TicketSelectionScreen />} />
         </Routes>
       </Router>
     </ThemeProvider>
